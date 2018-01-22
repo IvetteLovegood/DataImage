@@ -1,2 +1,6 @@
 # DataImage
-En este proyecto se obtiene tamaño, dimensiones y más información de una imagen utilizando sólo JavaScript.
+En este sencillo proyecto se obtienen:
+* Tamaño (kb)
+* Dimensión (height, width)
+* Vista Previa de la imagen
+Desde un input de tipo "file".
